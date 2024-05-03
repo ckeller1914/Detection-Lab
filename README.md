@@ -15,7 +15,7 @@ To perform a comprehensive vulnerability assessment using Nessus, identify poten
 - Ability to create virtual machines to test outdated software.
   
 - Enhanced knowledge of network protocols and security vulnerabilities.
-- 
+  
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
